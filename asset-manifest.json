@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/brain-project/static/css/main.9cc5577e.chunk.css",
+    "main.js": "/brain-project/static/js/main.b59a1e8a.chunk.js",
+    "main.js.map": "/brain-project/static/js/main.b59a1e8a.chunk.js.map",
+    "runtime-main.js": "/brain-project/static/js/runtime-main.5918776d.js",
+    "runtime-main.js.map": "/brain-project/static/js/runtime-main.5918776d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/brain-project/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.457c6c23.chunk.js": "/brain-project/static/js/2.457c6c23.chunk.js",
+    "static/js/2.457c6c23.chunk.js.map": "/brain-project/static/js/2.457c6c23.chunk.js.map",
+    "index.html": "/brain-project/index.html",
+    "precache-manifest.38fe5d6a14dc084c4b2225a84283991f.js": "/brain-project/precache-manifest.38fe5d6a14dc084c4b2225a84283991f.js",
+    "service-worker.js": "/brain-project/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/brain-project/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9cc5577e.chunk.css.map": "/brain-project/static/css/main.9cc5577e.chunk.css.map",
+    "static/js/2.457c6c23.chunk.js.LICENSE.txt": "/brain-project/static/js/2.457c6c23.chunk.js.LICENSE.txt",
+    "static/media/LogoW.png": "/brain-project/static/media/LogoW.f574e83c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5918776d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.457c6c23.chunk.js",
+    "static/css/main.9cc5577e.chunk.css",
+    "static/js/main.b59a1e8a.chunk.js"
+  ]
+}
